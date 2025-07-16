@@ -7,17 +7,11 @@ A full-featured **Flutter + Firebase** based **Dispensary Management System**, b
 ## 🚀 Features at a Glance
 
 ✅ Admin, Doctor, and Pharmacist Web Panels
-
 ✅ Android/iOS Mobile Apps for Driver & Student
-
 ✅ Real-Time Ambulance Tracking using Firebase Realtime DB
-
 ✅ Online Appointment Scheduling with Doctors
-
 ✅ Automatic Prescription Generation & Medical Records
-
 ✅ Medicine Stock Management & Alerts
-
 ✅ Firebase Authentication & Role-Based Access
 
 ---
@@ -54,7 +48,7 @@ A full-featured **Flutter + Firebase** based **Dispensary Management System**, b
 
 ## 👨‍💼 Project Team
 
-* **Syed Mansoor Ali Shah** – [GitHub Profile](https://github.com/syedmansooralishah)
+* **Syed Mansoor Ali Shah** – [GitHub Profile](https://github.com/yourusername)
 * **Ubaid Ullah Khan**
 * **Supervisor:** *Asfandyar Khan*
 
@@ -80,14 +74,18 @@ flutter run
 
 ---
 
+## ❤️ Special Thanks
+
+To our university, teachers, and supervisor for the continuous support throughout this project.
+
 ## 🛡 License
 
 This project, **Dispensary Management System**, was developed as part of an academic Final Year Project (FYP) and is provided for **educational and demonstration purposes only**.
 
-* 📚 **Usage**: You are welcome to explore and learn from this code.
+* 📚 **Usage**: You are welcome to explore, learn from, and reference this code.
 * ❌ **Restrictions**: Commercial use, redistribution, or modification **without written permission** is strictly **not allowed**.
 * 🤝 **Contact**: For collaboration or permission requests, please reach out to the authors.
 
-© 2025 Syed Mansoor Ali Shah All rights reserved.
+© 2025 Syed Mansoor Ali Shah & Ubaid Ullah Khan. All rights reserved.
 
 ---
