@@ -7,11 +7,17 @@ A full-featured **Flutter + Firebase** based **Dispensary Management System**, b
 ## 🚀 Features at a Glance
 
 ✅ Admin, Doctor, and Pharmacist Web Panels
+
 ✅ Android/iOS Mobile Apps for Driver & Student
+
 ✅ Real-Time Ambulance Tracking using Firebase Realtime DB
+
 ✅ Online Appointment Scheduling with Doctors
+
 ✅ Automatic Prescription Generation & Medical Records
+
 ✅ Medicine Stock Management & Alerts
+
 ✅ Firebase Authentication & Role-Based Access
 
 ---
