@@ -69,3 +69,12 @@ flutter pub get
 
 # Run the project
 flutter run
+
+## 🛡 License
+
+This project, **Dispensary Management System**, was developed as part of an academic Final Year Project (FYP) and is intended for educational and demonstration purposes only.
+
+All rights are reserved by the project authors. You are welcome to explore, learn, and reference this project, but **commercial use, redistribution, or modification** without explicit permission is **not allowed**.
+
+For collaboration, permissions, or other inquiries, please contact the authors directly.
+
