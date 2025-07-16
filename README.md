@@ -30,14 +30,12 @@ A full-featured **Flutter + Firebase** based **Dispensary Management System**, b
 
 ## 🖥️ System Overview
 
-### Web Panels:
+### Login Panels:
 - 👨‍⚕️ **Doctor** – View appointments, write prescriptions, manage records  
 - 🧪 **Pharmacist** – Manage medicine inventory & issue medicines  
 - 🧑‍💼 **Admin** – Manage users, roles, ambulances, doctors & overall system
-
-### Mobile Apps:
-- 🚑 **Driver App** – Track & accept ambulance calls, live location update  
-- 🎓 **Student App** – Book appointments, view history & track ambulances
+- 🚑 **Driver** – Track & accept ambulance calls, live location update  
+- 🎓 **Student** – Book appointments, view history & track ambulances
 
 ---
 
