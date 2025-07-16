@@ -6,36 +6,37 @@ A full-featured **Flutter + Firebase** based **Dispensary Management System**, b
 
 ## 🚀 Features at a Glance
 
-✅ Admin, Doctor, and Pharmacist Web Panels  
-✅ Android/iOS Mobile Apps for Driver & Student  
-✅ Real-Time Ambulance Tracking using Firebase Realtime DB  
-✅ Online Appointment Scheduling with Doctors  
-✅ Automatic Prescription Generation & Medical Records  
-✅ Medicine Stock Management & Alerts  
-✅ Firebase Authentication & Role-Based Access  
+✅ Admin, Doctor, and Pharmacist Web Panels
+✅ Android/iOS Mobile Apps for Driver & Student
+✅ Real-Time Ambulance Tracking using Firebase Realtime DB
+✅ Online Appointment Scheduling with Doctors
+✅ Automatic Prescription Generation & Medical Records
+✅ Medicine Stock Management & Alerts
+✅ Firebase Authentication & Role-Based Access
 
 ---
 
 ## 🧪 Tech Stack
 
-| Technology        | Role                                      |
-|-------------------|-------------------------------------------|
-| **Flutter**       | Cross-platform Mobile & Web App UI        |
-| **Firebase**      | Backend - Firestore, Auth, Realtime DB    |
-| **Dart**          | Application Logic                         |
-| **Google Maps API** | Ambulance Tracking                      |
-| **GitHub**        | Version Control & Collaboration           |
+| Technology          | Role                                   |
+| ------------------- | -------------------------------------- |
+| **Flutter**         | Cross-platform Mobile & Web App UI     |
+| **Firebase**        | Backend - Firestore, Auth, Realtime DB |
+| **Dart**            | Application Logic                      |
+| **Google Maps API** | Ambulance Tracking                     |
+| **GitHub**          | Version Control & Collaboration        |
 
 ---
 
 ## 🖥️ System Overview
 
 ### Login Panels:
-- 👨‍⚕️ **Doctor** – View appointments, write prescriptions, manage records  
-- 🧪 **Pharmacist** – Manage medicine inventory & issue medicines  
-- 🧑‍💼 **Admin** – Manage users, roles, ambulances, doctors & overall system  
-- 🚑 **Driver** – Track & accept ambulance calls, live location update  
-- 🎓 **Student** – Book appointments, view history & track ambulances
+
+* 👨‍⚕️ **Doctor** – View appointments, write prescriptions, manage records
+* 🧪 **Pharmacist** – Manage medicine inventory & issue medicines
+* 🧑‍💼 **Admin** – Manage users, roles, ambulances, doctors & overall system
+* 🚑 **Driver** – Track & accept ambulance calls, live location update
+* 🎓 **Student** – Book appointments, view history & track ambulances
 
 ---
 
@@ -45,11 +46,11 @@ A full-featured **Flutter + Firebase** based **Dispensary Management System**, b
 
 ---
 
-## 👨‍💻 Project Team
+## 👨‍💼 Project Team
 
-- **Syed Mansoor Ali Shah** – [GitHub Profile](https://github.com/yourusername)  
-- **Ubaid Ullah Khan**  
-- **Supervisor:** *Asfandyar Khan*
+* **Syed Mansoor Ali Shah** – [GitHub Profile](https://github.com/yourusername)
+* **Ubaid Ullah Khan**
+* **Supervisor:** *Asfandyar Khan*
 
 ---
 
@@ -69,3 +70,18 @@ flutter pub get
 
 # Run the project
 flutter run
+```
+
+---
+
+## 🛡 License
+
+This project, **Dispensary Management System**, was developed as part of an academic Final Year Project (FYP) and is provided for **educational and demonstration purposes only**.
+
+* 📚 **Usage**: You are welcome to explore, learn from, and reference this code.
+* ❌ **Restrictions**: Commercial use, redistribution, or modification **without written permission** is strictly **not allowed**.
+* 🤝 **Contact**: For collaboration or permission requests, please reach out to the authors.
+
+© 2025 Syed Mansoor Ali Shah & Ubaid Ullah Khan. All rights reserved.
+
+---
