@@ -48,7 +48,7 @@ A full-featured **Flutter + Firebase** based **Dispensary Management System**, b
 
 ## 👨‍💼 Project Team
 
-* **Syed Mansoor Ali Shah** – [GitHub Profile](https://github.com/yourusername)
+* **Syed Mansoor Ali Shah** – [GitHub Profile](https://github.com/syedmansooralishah)
 * **Ubaid Ullah Khan**
 * **Supervisor:** *Asfandyar Khan*
 
@@ -82,7 +82,7 @@ To our university, teachers, and supervisor for the continuous support throughou
 
 This project, **Dispensary Management System**, was developed as part of an academic Final Year Project (FYP) and is provided for **educational and demonstration purposes only**.
 
-* 📚 **Usage**: You are welcome to explore, learn from, and reference this code.
+* 📚 **Usage**: You are welcome to explore and learn from this code.
 * ❌ **Restrictions**: Commercial use, redistribution, or modification **without written permission** is strictly **not allowed**.
 * 🤝 **Contact**: For collaboration or permission requests, please reach out to the authors.
 
